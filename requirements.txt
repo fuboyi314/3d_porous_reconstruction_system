@@ -1,0 +1,9 @@
+PySide6>=6.8,<6.9
+numpy>=1.26,<3.0
+scipy>=1.14,<1.15
+scikit-image>=0.24,<0.25
+matplotlib>=3.9,<3.10
+pyvista>=0.44,<0.45
+vtk>=9.3,<9.4
+torch>=2.4,<2.6
+pytest>=8.3,<9.0
